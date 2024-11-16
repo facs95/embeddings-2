@@ -1,0 +1,26 @@
+# Virtual environment directories and related files
+bin/
+etc/
+include/
+lib/
+share/
+pyvenv.cfg
+
+# Jupyter notebook checkpoints
+notebooks/.ipynb_checkpoints/
+
+# Byte-compiled Python files
+__pycache__/
+*.py[cod]
+
+# Logs and temporary files
+*.log
+*.sqlite3
+*.bak
+*.swp
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.*
